@@ -49,6 +49,7 @@
     margin-left: 60px;
     margin-bottom: 10px;
     font-family: "Roboto";
+    font-size:medium;
 }
 
 .body-heading {
@@ -69,6 +70,10 @@
     font-family: "Roboto";
     margin-bottom: 5px;
     color: rgb(24, 0, 71);
+}
+
+.select{
+    font-size: medium;
 }
 
 .category {
